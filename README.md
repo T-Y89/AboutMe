@@ -49,3 +49,9 @@
 - QA全般の相談事
 - メンバー全員への勉強会
 - ソフトウェアテスト勉強会
+
+## アウトプット
+- https://tech.smarthr.jp/entry/2025/11/28/170000
+- https://www.lifull.blog/entry/2024/06/11/070000
+- https://qiita.com/Yamashita-Taiki
+- https://connpass.com/event/334358/
