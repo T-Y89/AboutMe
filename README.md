@@ -16,6 +16,7 @@
  ## SmartHR
 
 所属: 品質保証本部
+
 職種: QAE
 
 ### 主にやったこと
@@ -28,6 +29,7 @@
 
 ## LIFULL
 所属: Quality Architect Group
+
 職種: SET,QAE
 
 ### 主にやったこと
