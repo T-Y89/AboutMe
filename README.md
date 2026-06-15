@@ -46,7 +46,7 @@
 副業でおこなってきたこと/やっていることです。 
 
 - 自動テストやCI環境の導入サポート
-- CI/CD：CricleCI、GitHub Actions
+- CI/CD：GitHub Actions
 - ソフトウェアテスト、CI/CDなどに関する相談事
 - QA全般の相談事
 - メンバー全員への勉強会
