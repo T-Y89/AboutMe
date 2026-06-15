@@ -1,0 +1,18 @@
+name: Add skip-ci label on PR open
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  add-label:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      issues: write
+    steps:
+      - name: Add skip-ci label
+        run: gh pr edit "$PR_URL" --add-label "skip-ci"
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_URL: ${{ github.event.pull_request.html_url }}
