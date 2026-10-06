@@ -66,8 +66,28 @@ This section covers work I have done and continue to do alongside my primary emp
 - Consulting on QA processes and test strategies
 - Consulting on business and development process improvements using AI
 
+### FDE (Forward Deployed Engineer)
+
+Working directly inside clients' operations, handling everything from problem discovery to implementation and adoption.
+
+- Site: https://souzou.dev/
+- Business improvement for a hair salon
+  - Spent about a week on site, redesigning the entire workflow across customer service, reservations, and back office
+  - Client record creation: ~20 hours/month → ~3 hours (AI drafts records from recorded sessions; the owner reviews)
+  - Reservation and inquiry handling: ~8 hours/month → ~2 hours (consolidated four reservation channels into an existing reservation management service and LINE)
+  - Revenue increased 20% month-over-month (reservation volume and seasonality not isolated; still being monitored)
+  - Article: https://note.com/souzou_dev/n/nd943188618ac
+- Community platform for coworking spaces
+  - Built a platform with reservations, bulletin boards, messaging, and an AI assistant, integrating member features and operations, including permission design and operational procedures
+- Workforce management system
+  - Unified attendance, payroll, and skill evaluation. Encodes on-site rules (night shifts, departments, required staffing, working-hour caps) and auto-generates shifts for 40 nurses and assistants in seconds
+- Proposal document platform
+  - Slide generation leveraging existing PowerPoint assets; an in-house platform covering domestic data storage, confidential-information handling, and quality checks
+
 ## Publications and Talks
 
+- https://note.com/souzou_dev/n/nd943188618ac
+- https://souzou.dev/
 - https://test-talk.connpass.com/event/383213/
 - https://tech.smarthr.jp/entry/2025/11/28/170000
 - https://www.lifull.blog/entry/2024/06/11/070000
